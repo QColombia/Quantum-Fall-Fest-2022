@@ -45,7 +45,15 @@ Introduction to quantum machine learning research at scale.
 
 ### Modo de entrega
 * **Paso 1** Hacer fork a [este repositorio](https://github.com/QColombia/Quantum-Fall-Fest-2022) 
-* **Paso 2** Modificar la carpeta *Proyecto* a su conveniencia. Por ejemplo, modificando el README o borrando los archivos existentes y subiendo los del proyecto.
+
+![1](img/fork1.png)
+
+* **Paso 2** Click en Crear fork
+
+![2](img/fork2.png)
+
+
+* **Paso 3** Dentro del fork, modificar la carpeta *Proyecto* a su conveniencia. Por ejemplo, modificando el README o borrando los archivos existentes y subiendo los del proyecto.
 
 
 ### Modo alternativo de entrega
