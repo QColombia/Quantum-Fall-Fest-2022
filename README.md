@@ -36,7 +36,7 @@ Introduction to quantum machine learning research at scale.
 
 ## Detalles del Hackathon
 
-* Para registrar al equipo, **solo uno** de los miembros debe llenar el siguiente formulario: 
+* Para registrar al equipo, **solo uno** de los miembros debe llenar el siguiente [formulario](https://airtable.com/shrH893uU95qXRynb)
 * El hackathon consiste en una *idea libre*, es decir, cada grupo tiene la libertad de pensar en un problema (proyecto) donde pueda usarse computación cuántica, desarrollarlo tanto como se pueda en el tiempo del Hackathon y enviarlo. 
 
 ### Sobre el proyecto
@@ -57,9 +57,12 @@ Introduction to quantum machine learning research at scale.
 
 
 ### Modo alternativo de entrega
-* **Solo una** persona del equipo puede enviar el proyecto al correo: alejandro.cadavid@correounivalle.edu.co
+* **Solo una** persona del equipo puede enviar el proyecto al correo: alejandro.cadavid@correounivalle.edu.co con asunto 
 
+## Premios
 
+* Cada miembro del equipo ganador recibirá un *swag package* de Qiskit. 
+* Los grupos que utilicen OpenQAOA entran a competir por camisas de Entropica.
 
 --------------------------------
 
