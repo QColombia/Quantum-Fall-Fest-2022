@@ -44,6 +44,9 @@ Introduction to quantum machine learning research at scale.
 * Deberá existir un notebook principal que contenga como mínimo los nombres de los participantes, una descripción del proyecto y la implementación en código de la idea.
 
 ### Modo de entrega
+
+**La fecha límite de entrega es el 17 de Octubre a las 10 am**
+
 * **Paso 1** Hacer fork a [este repositorio](https://github.com/QColombia/Quantum-Fall-Fest-2022) 
 
 ![1](img/fork1.png)
