@@ -1,5 +1,9 @@
 # QColombia Quantum Fall Fest
 
+## Grabaciones
+
+https://www.youtube.com/watch?v=HOeo4uZi0Tc&list=PL06PeZM2ANvbI5qBZqLCa4vJbWvIk1SbO
+
 ## Bienvenido/a
 
 Estamos muy emocionados de tenerte en nuestro evento. Antes de dar información específica nos gustaría presentamos, somos QColombia, una organización cuyo objetivo es difundir el desarrollo de tecnologías cuánticas en Colombia, que hace parte de QWorld (https://qworld.net/qcolombia/). QColombia proporciona recursos para que los estudiantes y personas interesadas en computación cuántica se familiaricen con los conceptos fundamentales. Si quieres unirte al grupo síguenos en nuestra cuenta de Instagram [@qc.colombia](https://www.instagram.com/qc.colombia/)
